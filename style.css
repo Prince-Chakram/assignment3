@@ -1,0 +1,60 @@
+body {
+    font-family: 'Poppins';
+}
+
+header {
+    height: 105vh;
+    background-image: url('https://media.istockphoto.com/id/1391002457/photo/people-helping-each-other-hike-up-a-mountain-at-sunrise-giving-helping-hand-and-teamwork.jpg?s=1024x1024&w=is&k=20&c=2obV4BDGzCM2E4OjRyPXwFrct3bLDhOdswDFCep9qkA=');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: white;
+}
+.header-section {
+    height: 100vh;
+}
+
+.container {
+    width: 30%;
+    margin: auto;
+    padding: 12px;
+    height: 100%;
+    align-items: center;
+    color: black;
+}
+.header-quote {
+    padding: 5px;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 3px;
+    width: 466px;
+}
+.header-title {
+    font-size: 19vh;
+    text-align: center;
+    padding: 15px;
+   
+    text-transform: uppercase;
+    letter-spacing: 14px;
+    font-weight:bold;
+    margin: -20px -420px;
+    line-height: 80px;
+
+}
+.subtitle {
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    line-height: 45px;
+    width: 423px;
+}
+.btn {
+    text-align: center;
+    color: white;
+    padding: 8px;
+    margin: 2px;
+    background-color: black;
+    width: 122px;
+    
+}
